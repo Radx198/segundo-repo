@@ -1,2 +1,9 @@
 cuarta version archivo
+<<<<<<< HEAD
 version master
+
+
+Version rama
+
+
+>>>>>>> segunda-rama
